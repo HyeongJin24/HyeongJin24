@@ -1,16 +1,31 @@
-## Hi there 👋
+# 자기소개
 
-<!--
-**HyeongJin24/HyeongJin24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 1. 소개
+  - 이름 : 정형진
+  - 나이 : 27살(1999년생)
+  - 거주 : 광주광역시
+  - 전공 : 수학
+  - mbti : ISFJ
+  - 성격 : 처음보는 사람들과는 낯을 많이 가리는 성격
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+## 2. 취미/관심분야
+  - 게임 / 게임 개발
+  - 음악 듣기
+  - 산책하기
+  - 스포츠
+
+----
+
+## 3. 목표
+  - **싸피**를 통해 많은 사람들과 만나 배우고 발전해 나가는 것
+  - 열심히 성장해 내가 원하는 곳에 취직하는 것
+
+----
+
+```python
+끝까지 포기하지 않고 화이팅!!
+```
+![이미지](image.jpg)
